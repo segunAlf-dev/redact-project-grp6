@@ -53,7 +53,7 @@ After clicking a “Redact Now” button, the app scans through the original tex
 ### Links
 
 - Solution URL: [Click here for solution URL](https://github.com/mchenryspagg/redact-project-grp6)
-- Live Site URL: [Click here for live site URL](https://redact-project-grp6.redactr-project-grp6.repl.co/)
+- Live Site URL: [Click here for live site URL](https://mchenryspagg.github.io/redact-project-grp6/)
 
 
 ### Built with
