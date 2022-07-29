@@ -1,4 +1,4 @@
-# AltSchool Semester 1 Holiday Challenge
+# TechHub Group Challenge
 
 ### What
 Solidify what you’ve learnt by building cool simple things you can showcase
@@ -6,36 +6,32 @@ Solidify what you’ve learnt by building cool simple things you can showcase
 ### Why
 Practice makes perfect. We’re getting you ready for all the fun projects in the coming semester
 
-
 ### How
-*   Build any one of the below projects as a group / team, using Repl.it 
+*   Build the below project as a group / team, using Repl.it 
 *   Vanilla HTML/CSS and Javascript is sufficient to build these projects as fully functional apps, so don’t use any fancy libraries or frameworks. Doing so can cost you some points!
 *   It’s a healthy competition amongst teams, so try your best to make your application functional, clean and presentable
 
-## Projects
 
-> As a team, decide which of the below projects you are excited about, then go ahead and build it. 
----
-> Make sure to *always* update the `app.properties` file within the project codebase to reflect the choice of project as well as details of the team Rep and all the members working to build it. 
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Scenario](#scenario)
+  - [Outcome](#outcome)
+  - [Advanced Features](#advanced-features)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What was learnt](#what-was-learnt)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Contributors](#contributors)
+- [Acknowledgments](#acknowledgments)
 
 
-### 01 - Phonie: Identify the telecoms carrier from a phone number
+## Overview
 
-#### Scenario
-
-A user is filling a form in your web application and they are required to enter their phone number into a form field.
-
-#### Outcome
-
-After typing the phone number into the form field, the UI indicates that it is an MTN or GLO or Airtel or Etisalat number e.t.c (e.g if its an MTN line, display the MTN icon/logo somewhere beside the form field)
-
-#### Advanced features (OPTIONAL- build any, some or all of the following if you feel up to it) 
-
-* Add validation - Use the `pattern` attribute of the HTML form field to restrict phone numbers to a certain carrier, e.g restrict to only Airtel such that entering an MTN/GLO number would be invalid
-* Support +XYZ country codes (e.g +234 for Nigeria) - Still detect the carrier even if the user prefixed the number with their +XYZ country code
-* Show auto-completion - Show suggestions as the user starts typing the phone number. E.g once they type 080, show them that 080*3* and 080*6* and other possible *matching* variants of the carrier
-
-### 02- Redactr - Scramble some words from a body of text content
+### The challenge : Redactr - Scramble some words from a body of text content
 
 #### Scenario
 
@@ -49,21 +45,47 @@ After clicking a “Redact Now” button, the app scans through the original tex
 * Allow the user specify what to use in replacing the words, so that the app can do the scrambling with what the user provides, be it asterisks, questions marks, dashes, underscores, or even other words
 * Display some stats like how many words were scanned, how many matched the words to be scrambled, how many characters were scrambled in total, how long it took (in seconds) to complete the scrambling task e.t.c. Feel free to be creative here
 
-### SchoolStat - A simple dashboard for a tech school
+### Screenshot
 
-#### Scenario
+![default state](./redact.jpg)
+![hover state](./redactr-hover2.jpg)
 
-You have data about which instructors are taking the courses in a school, as well as data about which students are in the frontend, backend or cloud tracks. Your users need to see some basic stats about the school
+### Links
 
-#### Outcome: 
+- Solution URL: [Click here for solution URL](https://github.com/mchenryspagg/redact-project-grp6)
+- Live Site URL: [Click here for live site URL](https://redact-project-grp6.redactr-project-grp6.repl.co/)
 
-When the user opens your dashboard app, they see HTML tables showing the following statistics/summaries
-* How many courses a given instructor is taking
-* How many students are in each of the tracks (frontend, backend and cloud)
-* How many students are male, female or other genders/orientation
-* Minimum, maximum, and average age of students in the school
 
-#### Advanced features (OPTIONAL- build any, some or all of the following if you feel up to it) 
+### Built with
 
-* Make the tables sortable by (at least) the column holding the numbers. Indicate what columns are sortable (e.g with an icon or by adding the <> charectars in the column header e.t.c). When the user clicks on a sortable column header, sort the records in the table by that column (e.g switch the current sort order such that if the column was already sorted ASC, sort in DESC)
+- HTML5 markup
+- CSS
+- Javascript
+
+### What was learnt
+
+The knowledge on how to collaborate in a team project is the first lesson learnt. Also, harnessing the strengths of every team members whilst overlooking the inherent weaknesses of others. Improvement in the knowledge and application of writing Javascript codes to solve programming problems.
+
+
+### Continued development
+
+More projects would be completed both as a team and as individuals. 
+
+### Useful resources
+
+- [The Complete Javascript course 2022 - From Zero to Hero](https://www.udemy.com/course/the-complete-javascript-course/) - This course is great to learn and master javascript with practical hands-on experience to test your learning as you go
+- [Freecodecamp's Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) - This is an amazing website and also a wonderful resource to learn web design. I learnt quite a lot from freecodecamp as a beginner. 
+
+
+## Contributors
+
+1. Henry Ugochukwu Okam - [Email](mailto:hnry_ugo@yahoo.com?subject=%20Source%20Han%20Sans)
+- Twitter - [@mchenryspagg](https://www.twitter.com/mchenryspagg)
+2. Alofun Segun - [Email](mailto:segunalofun@protonmail.com)
+3. Adedokun Olaitan - [Email](kenney9224@gmail.com)
+4. Olabode Miracle Oluwabunmi - [Email](olabodemiracle.o@gmail.com)
+5. Ejiroghene Laurel Dafe - [Email](dafelaurele@gmail.com)
+
+## Acknowledgments
+Special thanks to all the team members that contributed immeasurably to bring about the completion of this project. Special shoutout to AltschoolAfrica for the project brief, and also a special shoutout to the Tech Hub Slack community comprising of young passionate tech newbies and intermediate professionals striving to become worldclass software engineers through collaboration, knowledge sharing and motivating one another.
 

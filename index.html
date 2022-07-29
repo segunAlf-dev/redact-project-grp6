@@ -1,19 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Name of chosen challenge</title>
-
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>REDACT</title>
+  <link rel="stylesheet" href="style.css">
+  <script src='index.js' defer></script>
 </head>
-<body>
-    
-    <h2>make some magic here!!</h2>
 
-    <!-- // ============= EEND DO NOT EDIT ============== // -->
-    <script src="index.mjs" type="module"></script>
-    <!-- // ============= EEND DO NOT EDIT ============== // -->
+<body>
+
+  <h1>Redact! Redact!!</h1>
+  <!--   <hr> -->
+  <form>
+
+    <div>
+      <label for="text"> Enter sentence below </label>
+      <textarea id="text" cols="30" rows="5" placeholder="eg:I love html, css, and JS"></textarea>
+    </div>
+
+    <div>
+      <label for="word"> Enter word(s) to hide here </label>
+      <i>(separate multiple words with space)</i>
+      <input id="word" type="text" placeholder="eg:html css JS" />
+    </div>
+
+    <div>
+      <label>Choose a replacement tag</label>
+      <input id="tag" type="text" placeholder="eg: @, *, #">
+    </div>
+    <div>
+      <button type="button" class="check">redactr</button>
+    </div>
+    <div>
+      <h2> Output </h2 <div>
+      <label for="output" type="text">Result</label>
+      <output name="result" for="redactr">
+        <textarea id="text" class="output" cols="30" rows="5"
+          placeholder="scrambled sentence will appear here"></textarea>
+    </div>
+    </output>
+    </div>
+
+    <div class="all_count">
+      <p id="count">
+        <!--       Word Count: -->
+      </p>
+      <p id="scrambledcount">
+        <!--       Scrambled Word Count: -->
+      </p>
+      <p id="scrambledChar">
+        <!--       Scrambled Character Count: -->
+      </p>
+      <p id="time">
+        <!--        Scrambled Time : -->
+        <!-- Please, DON'T DELETE THIS TAG! -->
+        <!--       How many words matched were scrambled -->
+      </p>
+    </div>
+
+
+
+  </form>
+  <!--   <hr> -->
+
 </body>
+
 </html>
