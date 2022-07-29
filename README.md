@@ -48,7 +48,7 @@ After clicking a “Redact Now” button, the app scans through the original tex
 ### Screenshot
 
 ![default state](./redact.jpg)
-![hover state](./redactr-hover2.jpg)
+![hover state](./redact-hover3.jpg)
 
 ### Links
 
