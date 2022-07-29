@@ -79,12 +79,11 @@ More projects would be completed both as a team and as individuals.
 
 ## Contributors
 
-1. Henry Ugochukwu Okam - [Email](mailto:hnry_ugo@yahoo.com?subject=%20Source%20Han%20Sans)
-- Twitter - [@mchenryspagg](https://www.twitter.com/mchenryspagg)
+1. Henry Ugochukwu Okam - [Email](mailto:hnry_ugo@yahoo.com) | twitter - [@mchenryspagg](https://www.twitter.com/mchenryspagg)
 2. Alofun Segun - [Email](mailto:segunalofun@protonmail.com)
-3. Adedokun Olaitan - [Email](kenney9224@gmail.com)
-4. Olabode Miracle Oluwabunmi - [Email](olabodemiracle.o@gmail.com)
-5. Ejiroghene Laurel Dafe - [Email](dafelaurele@gmail.com)
+3. Adedokun Olaitan - [Email](mailto:kenney9224@gmail.com)
+4. Olabode Miracle Oluwabunmi - [Email](mailto:olabodemiracle.o@gmail.com)
+5. Ejiroghene Laurel Dafe - [Email](mailto:dafelaurele@gmail.com)
 
 ## Acknowledgments
 Special thanks to all the team members that contributed immeasurably to bring about the completion of this project. Special shoutout to AltschoolAfrica for the project brief, and also a special shoutout to the Tech Hub Slack community comprising of young passionate tech newbies and intermediate professionals striving to become worldclass software engineers through collaboration, knowledge sharing and motivating one another.
