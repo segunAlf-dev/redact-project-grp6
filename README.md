@@ -80,7 +80,7 @@ More projects would be completed both as a team and as individuals.
 ## Contributors
 
 1. Henry Ugochukwu Okam - [Email](mailto:hnry_ugo@yahoo.com) | twitter - [@mchenryspagg](https://www.twitter.com/mchenryspagg)
-2. Alofun Segun - [Email](mailto:segunalofun@protonmail.com)
+2. Alofun Segun - [Email](mailto:segunalofun@protonmail.com) | linkedIn - [Segun Alofun] (https://www.linkedin.com/in/segunalf/)
 3. Adedokun Olaitan - [Email](mailto:kenney9224@gmail.com)
 4. Olabode Miracle Oluwabunmi - [Email](mailto:olabodemiracle.o@gmail.com)
 5. Ejiroghene Laurel Dafe - [Email](mailto:dafelaurele@gmail.com)
